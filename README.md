@@ -2,7 +2,7 @@
 Repository for theSWC workshop
 
 Please try our code by clicking on:
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/anacost/uppsala-workshop/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/anacost/uppsala-workshop/master?urlpath=rstudio)
 
 This repository is publicly available. See LICENSE file for conditions.
 
